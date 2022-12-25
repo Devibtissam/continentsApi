@@ -1,0 +1,178 @@
+[
+     {
+        "id": 11,
+        "continentName": "Africa",
+        "areakm2": 29648481,
+        "populationmill" : 1.3,
+        "countries": [
+            {
+                "countryName": "South Arfica",
+                "population": 55653654,
+                "capital": "Pretoria",
+                "indepYear": 1910,
+                "image_url": "https://flagcdn.com/za.svg"
+            },
+            {
+                "countryName": "Morocco",
+                "population": 36471769,
+                "capital": "Rabat",
+                "indepYear": 1956,
+                "image_url": "https://flagcdn.com/ma.svg"
+            },
+            {
+                "countryName": "Cameroon",
+                "population": 25471852,
+                "capital": "Yaounde",
+                "indepYear": 1960,
+                "image_url": "https://flagcdn.com/cm.svg"
+            },
+            {
+                "countryName": "Zimbabwe",
+                "population": 14030368,
+                "capital": "Harare",
+                "indepYear": 1980,
+                "image_url": "https://flagcdn.com/zw.svg"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "continentName": "Americas",
+        "areakm2": 42330000,
+        "populationmill": 1.002,
+        "countries": [
+             {
+                "countryName": "Canada",
+                "population": 38155012,
+                "capital": "Ottawa",
+                "indepYear": 1867,
+                "image_url": "https://flagcdn.com/ca.svg"
+            },
+             {
+                "countryName": "Costa Rica",
+                "population": 5153957,
+                "capital": "San Jose",
+                "indepYear": 1850,
+                "image_url": "https://flagcdn.com/cr.svg"
+            },
+             {
+                "countryName": "United States",
+                "population": 336997624,
+                "capital": "Washington",
+                "indepYear": 1959,
+                "image_url": "https://flagcdn.com/um.svg"
+            },
+             {
+                "countryName": "El Salvador",
+                "population": 6314167,
+                "capital": "San Salvador",
+                "indepYear": 1959,
+                "image_url": "https://flagcdn.com/sv.svg"
+            }
+            
+
+        ]
+        
+    },
+    {
+        "id": 33,
+        "continentName": "Europe",
+        "areakm2": 10180000,
+        "populationmill": 746.4,
+        "countries": [
+            {
+                
+                "countryName": "Germany",
+                "population": 83695430,
+                "capital": "Berlin",
+                "indepYear": false,
+                "image_url": "https://flagcdn.com/de.svg"
+            },
+            {
+                "countryName": "Italy",
+                "population": 58853482,
+                "capital": "Rome",
+                "indepYear": false,
+                "image_url": "https://flagcdn.com/it.svg"
+            },
+            {
+                "countryName": "Denmark",
+                "population":  5928364,
+                "capital": "Copenhagen",
+                "indepYear": false,
+                "image_url": "https://flagcdn.com/dk.svg"
+            },
+            {
+                "countryName": "Switzerland",
+                "population":  8636896,
+                "capital": "Bern",
+                "indepYear": false,
+                "image_url": "https://flagcdn.com/ch.svg"
+            }
+        ]
+    },{
+    "id": 44,
+    "continentName": "Asia",
+    "areakm2": 44579000,
+    "populationmill": 4.561,
+    "countries": [
+         {
+                "countryName": "China",
+                "population": 1410539758,
+                "capital": "Beijing",
+                "indepYear": false,
+                "image_url": "https://flagcdn.com/cn.svg"
+            },
+            {
+                "countryName": "Japan",
+                "population": 124214766,
+                "capital": "Tokyo",
+                "indepYear": false,
+                "image_url": "https://flagcdn.com/jp.svg"
+            },
+            {
+                "countryName": "Saudi Arabia",
+                "population": 38401000,
+                "capital": "Riyadh",
+                "indepYear": false,
+                "image_url": "https://flagcdn.com/sa.svg"
+            },
+            {
+                "countryName": "Qatar",
+                "population": 2795484,
+                "capital": "Doha",
+                "indepYear": false,
+                "image_url": "https://flagcdn.com/qa.svg"
+            }
+
+
+    ]
+
+    },
+    {
+    "id":55,
+    "continentName": "Oceanía",
+    "areakm2": 8525989,
+    "populationmill":  44,
+    "countries": [
+        {
+            "countryName": "Australie",
+            "population": 23470145,
+            "capital": "Canberra",
+            "indepYear": 1901,
+            "image_url": "https://flagcdn.com/au.svg"
+        },
+        {
+            "countryName": "New Zealand",
+            "population": 5124100,
+            "capital":  "Wellington",
+            "indepYear": 1907,
+            "image_url": "https://flagcdn.com/nz.svg"
+
+        }
+
+    ]
+    }
+
+
+]
