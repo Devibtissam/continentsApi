@@ -3,7 +3,11 @@ const continents = require('./data/continents')
 
 const server = http.createServer((req, res) => {
     if(req.url === '/api/continents' && req.method === "GET"){
-        res.writeHead(200, {'Content-Type': 'application/json'})
+        res.writeHead(200, {'Content-Type': 'application/json',
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Headers": "Origin, x-Requested-with, Content-Type, Accept"
+    })
+        
         res.end(JSON.stringify(continents))
     }else{
          res.writeHead(404, {'Content-Type': 'application/json'})
